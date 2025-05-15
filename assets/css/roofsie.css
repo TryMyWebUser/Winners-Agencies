@@ -23,7 +23,7 @@
   --roofsie-gray-rgb: 108, 107, 111;
   --roofsie-white: #ffffff;
   --roofsie-white-rgb: 255, 255, 255;
-  --roofsie-base: #ff4f47;
+  --roofsie-base: rgb(201 156 21);
   --roofsie-base-rgb: 255, 79, 71;
   --roofsie-black: #1c1b1f;
   --roofsie-black-rgb: 28, 27, 31;
@@ -4445,6 +4445,7 @@ ul {
   display: flex;
   align-items: center;
   margin-left: 10px;
+  justify-content: center;
 }
 
 .testimonial-one__client-img-box {
@@ -4892,7 +4893,7 @@ ul {
 .site-footer__top {
   position: relative;
   display: block;
-  padding: 118px 0 120px;
+  padding: 80px 0 40px;
 }
 
 .footer-widget__about {
@@ -5538,7 +5539,7 @@ ul {
 .why-choose-two__list-one li {
   position: relative;
   display: block;
-  padding-left: 130px;
+  /* padding-left: 130px; */
 }
 
 .why-choose-two__list-one li+li {
@@ -5699,7 +5700,7 @@ ul {
   position: relative;
   display: block;
   min-height: 156px;
-  padding-left: 265px;
+  /* padding-left: 265px; */
 }
 
 .why-choose-two__list-two li+li {
@@ -5710,7 +5711,7 @@ ul {
   position: absolute;
   top: -8px;
   left: 0;
-  max-width: 235px;
+  /* max-width: 235px; */
   width: 100%;
   text-align: right;
 }
