@@ -169,9 +169,9 @@
                                 <div class="why-choose-two__img-box">
                                     <div class="why-choose-two__img-one">
                                         <img src="assets/images/resources/why-choose-two-img-1.jpg" alt="">
-                                        <div class="why-choose-two__img-two">
+                                        <!-- <div class="why-choose-two__img-two">
                                             <img src="assets/images/resources/why-choose-two-img-2.png" alt="">
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                                 <ul class="list-unstyled why-choose-two__list-one pt-5">

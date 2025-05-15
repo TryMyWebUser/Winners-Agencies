@@ -108,7 +108,7 @@
                                 </li>
                                 <li>
                                     <i class="icon">
-                                        <span class="fa fa-phone-alt"></span>
+                                        <span class="fas fa-phone-alt"></span>
                                     </i>
                                     <div class="text">
                                         <p><a href="tel:+919443013894">+91 9443 013 894</a></p>
@@ -141,7 +141,7 @@
                                         <li>
                                             <a href="about.php">About</a>
                                         </li>
-                                        <li class="dropdown">
+                                        <!-- <li class="dropdown">
                                             <a href="#">Products</a>
                                             <ul class="border-top-2px">
                                                 <li><a href="demo.php">Demo</a></li>
@@ -149,7 +149,7 @@
                                         </li>
                                         <li>
                                             <a href="services.php">Services</a>
-                                        </li>
+                                        </li> -->
                                         <li>
                                             <a href="contact.php">Contact</a>
                                         </li>
@@ -159,7 +159,7 @@
                             <div class="main-menu__right">
                                 <div class="main-menu__call">
                                     <div class="main-menu__call-icon">
-                                        <i class="fas fa-phone"></i>
+                                        <i class="fas fa-phone-alt"></i>
                                     </div>
                                     <div class="main-menu__call-content">
                                         <p>Call Anytime</p>

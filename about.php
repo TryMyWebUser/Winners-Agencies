@@ -27,7 +27,7 @@
                             <div class="about-one__left">
                                 <div class="about-one__img-box wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
                                     <div class="about-one__img">
-                                        <img src="assets/images/resources/about-one-img-1.jpg" alt="" />
+                                        <img src="assets/images/resources/about-one-img-2.jpg" alt="" />
                                     </div>
                                     <div class="about-one__line">
                                         <img src="assets/images/shapes/about-one-line.png" alt="" />
@@ -155,9 +155,9 @@
                                 <div class="why-choose-two__img-box">
                                     <div class="why-choose-two__img-one">
                                         <img src="assets/images/resources/why-choose-two-img-1.jpg" alt="">
-                                        <div class="why-choose-two__img-two">
+                                        <!-- <div class="why-choose-two__img-two">
                                             <img src="assets/images/resources/why-choose-two-img-2.png" alt="">
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                                 <ul class="list-unstyled why-choose-two__list-one pt-5">

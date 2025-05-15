@@ -87,7 +87,7 @@
                         <a href="mailto:winnersagencies@gmail.com">winnersagencies@gmail.com</a>
                     </li>
                     <li>
-                        <i class="fa fa-phone-alt"></i>
+                        <i class="fas fa-phone-alt"></i>
                         <a href="tel:+919443013894">+91 944 301 3894</a>
                     </li>
                 </ul>
