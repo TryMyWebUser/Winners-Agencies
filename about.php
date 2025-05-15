@@ -69,59 +69,63 @@
             </section>
             <!--About Three End-->
 
-            <!--Services One Start-->
-            <section class="services-one">
-                <div class="services-one-shape-1 float-bob-x">
-                    <img src="assets/images/shapes/services-one-shape-1.png" alt="">
-                </div>
-                <div class="services-one-shape-2">
-                    <img src="assets/images/shapes/services-one-shape-2.png" alt="">
-                </div>
+            <!--Process Start-->
+            <section class="process">
+                <div class="process-bg" style="background-image: url(assets/images/shapes/feature-one-dot.png);"></div>
                 <div class="container">
-                    <div class="services-one__top">
-                        <div class="row">
-                            <div class="col-xl-7 col-lg-6">
-                                <div class="services-one__top-left">
-                                    <div class="section-title text-left">
-                                        <h2 class="section-title__title">Our Goal</h2>
+                    <div class="row">
+                        <!--Process Single Start-->
+                        <div class="col-xl-6 col-lg-6">
+                            <div class="process__single">
+                                <div class="process__content-box">
+                                    <div class="process__icon-box">
+                                        <div class="process__icon">
+                                        <span>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-eye-fill" viewBox="0 0 16 16">
+                                                <path d="M10.5 8a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0"/>
+                                                <path d="M0 8s3-5.5 8-5.5S16 8 16 8s-3 5.5-8 5.5S0 8 0 8m8 3.5a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7"/>
+                                            </svg>
+                                        </span>    
+                                            <div class="process__shape" style="background-image: url(assets/images/shapes/process-shape.png)"></div>
+                                            <div class="process__count"></div>
+                                        </div>
+                                    </div>
+                                    <div class="process__details">
+                                        <h3 class="process__title">OUR VISION</h3>
+                                        <p class="process__text">To become the prime suppliers of plastic raw materials globally by providing our customers with innovative solutions and competitive price to meet the evolving needs of our customers. Our vision is founded on a commitment to excellence, environmental stewardship, and customer satisfaction.</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="services-one__bottom">
-                        <div class="row">
-                            <!--Services One Single Start-->
-                            <div class="col-xl-6 col-lg-6 wow fadeInUp" data-wow-delay="100ms">
-                                <div class="services-one__single">
-                                    <div class="services-one__img">
-                                        <img src="assets/images/services/services-1-1.jpg" alt="">
+                        <!--Process Single End-->
+                        <!--Process Single Start-->
+                        <div class="col-xl-6 col-lg-6">
+                            <div class="process__single">
+                                <div class="process__content-box">
+                                    <div class="process__icon-box">
+                                        <div class="process__icon">
+                                            <span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-rocket-takeoff-fill" viewBox="0 0 16 16">
+                                                    <path d="M12.17 9.53c2.307-2.592 3.278-4.684 3.641-6.218.21-.887.214-1.58.16-2.065a3.6 3.6 0 0 0-.108-.563 2 2 0 0 0-.078-.23V.453c-.073-.164-.168-.234-.352-.295a2 2 0 0 0-.16-.045 4 4 0 0 0-.57-.093c-.49-.044-1.19-.03-2.08.188-1.536.374-3.618 1.343-6.161 3.604l-2.4.238h-.006a2.55 2.55 0 0 0-1.524.734L.15 7.17a.512.512 0 0 0 .433.868l1.896-.271c.28-.04.592.013.955.132.232.076.437.16.655.248l.203.083c.196.816.66 1.58 1.275 2.195.613.614 1.376 1.08 2.191 1.277l.082.202c.089.218.173.424.249.657.118.363.172.676.132.956l-.271 1.9a.512.512 0 0 0 .867.433l2.382-2.386c.41-.41.668-.949.732-1.526zm.11-3.699c-.797.8-1.93.961-2.528.362-.598-.6-.436-1.733.361-2.532.798-.799 1.93-.96 2.528-.361s.437 1.732-.36 2.531Z"/>
+                                                    <path d="M5.205 10.787a7.6 7.6 0 0 0 1.804 1.352c-1.118 1.007-4.929 2.028-5.054 1.903-.126-.127.737-4.189 1.839-5.18.346.69.837 1.35 1.411 1.925"/>
+                                                </svg>
+                                            </span>
+                                            <div class="process__shape" style="background-image: url(assets/images/shapes/process-shape.png)"></div>
+                                            <div class="process__count"></div>
+                                        </div>
                                     </div>
-                                    <div class="services-one__content">
-                                        <h3 class="services-one__title">VISION</h3>
-                                        <p class="services-one__text">To become the prime suppliers of plastic raw materials globally by providing our customers with innovative solutions and competitive price to meet the evolving needs of our customers. Our vision is founded on a commitment to excellence, environmental stewardship, and customer satisfaction.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--Services One Single End-->
-                            <!--Services One Single Start-->
-                            <div class="col-xl-6 col-lg-6 wow fadeInUp" data-wow-delay="200ms">
-                                <div class="services-one__single">
-                                    <div class="services-one__img">
-                                        <img src="assets/images/services/services-1-2.jpg" alt="">
-                                    </div>
-                                    <div class="services-one__content">
-                                        <h3 class="services-one__title">MISSION</h3>
-                                        <p class="services-one__text">Our aim is to be a trusted partner to our customers in providing high quality plastic raw materials to meet the highest standards of performance, safety and help them achieve their goals and grow their businesses and provide them with exceptional polymer solutions that empower businesses to thrive in an ever evolving marketplace. We strive to be the preferred partner for businesses seeking sustainable and cost-effective solutions for their plastic manufacturing needs.</p>
+                                    <div class="process__details">
+                                        <h3 class="process__title">OUR MISSION</h3>
+                                        <p class="process__text">Our aim is to be a trusted partner to our customers in providing high quality plastic raw materials to meet the highest standards of performance, safety and help them achieve their goals and grow their businesses and provide them with exceptional polymer solutions that empower businesses to thrive in an ever evolving marketplace. We strive to be the preferred partner for businesses seeking sustainable and cost-effective solutions for their plastic manufacturing needs.</p>
                                     </div>
                                 </div>
                             </div>
-                            <!--Services One Single End-->
                         </div>
+                        <!--Process Single End-->
                     </div>
                 </div>
             </section>
-            <!--Services One End-->
+            <!--Process End-->
 
             <!--Why Choose Two Start-->
             <section class="why-choose-two">
