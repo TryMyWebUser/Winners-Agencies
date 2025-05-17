@@ -1,8 +1,8 @@
             <!--Site Footer Start-->
             <footer class="site-footer">
-                <div class="site-footer-img-1">
+                <!-- <div class="site-footer-img-1">
                     <img src="assets/images/shapes/testimonial-one-shape.png" alt="" />
-                </div>
+                </div> -->
                 <div class="site-footer-shape-1">
                     <img src="assets/images/shapes/site-footer-shape-1.png" alt="" />
                 </div>
@@ -35,14 +35,16 @@
                                     </ul>
                                 </div>
                             </div>
-                            <!-- <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
+                            <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
                                 <div class="footer-widget__column footer-widget__explore clearfix">
-                                    <h3 class="footer-widget__title">Products</h3>
+                                    <h3 class="footer-widget__title">Contact Now</h3>
                                     <ul class="footer-widget__explore-list list-unstyled clearfix">
-                                        <li><a href="about.html">About</a></li>
+                                        <li><a href="https://maps.app.goo.gl/eBPjM5o7ZoJeEFut9"><span class="icon-pin me-2"></span>468/1, Annaiyappan street, Nallamapalayam Main Road, Ganapathy Post, Coimbatore - 641006.</a></li>
+                                        <li><a href="mailto:winnersagencies@gmail.com"><span class="icon-email me-2"></span>winnersagencies@gmail.com</a></li>
+                                        <li><a href="tel:+919443013894"><span class="icon-telephone me-2"></span>+91 944 301 3894</a></li>
                                     </ul>
                                 </div>
-                            </div> -->
+                            </div>
                             <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
                                 <div class="footer-widget__column footer-widget__contact">
                                     <h3 class="footer-widget__title">Reach Us</h3>

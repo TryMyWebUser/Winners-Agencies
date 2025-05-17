@@ -29,7 +29,7 @@
                                     <div class="col-xl-7 col-lg-8">
                                         <div class="main-slider__content">
                                             <p class="main-slider__sub-title">Welcome to</p>
-                                            <h2 class="main-slider__title">Winners Agencies</h2>
+                                            <h2 class="main-slider__title">Winners Polytec Agency Pvt Ltd</h2>
                                             <p class="main-slider__text">
                                                 "THE KEY TO LIFE IS ACCEPTING CHALLENGES", The motto drives us to explore the field of polymers and keeps us evolving.
                                             </p>
@@ -51,7 +51,7 @@
                                     <div class="col-xl-7 col-lg-8">
                                         <div class="main-slider__content">
                                             <p class="main-slider__sub-title">Welcome to</p>
-                                            <h2 class="main-slider__title">Winners Agencies</h2>
+                                            <h2 class="main-slider__title">Winners Polytec Agency Pvt Ltd</h2>
                                             <p class="main-slider__text">
                                                 "THE KEY TO LIFE IS ACCEPTING CHALLENGES", The motto drives us to explore the field of polymers and keeps us evolving.
                                             </p>
@@ -73,7 +73,7 @@
                                     <div class="col-xl-7 col-lg-8">
                                         <div class="main-slider__content">
                                             <p class="main-slider__sub-title">Welcome to</p>
-                                            <h2 class="main-slider__title">Winners Agencies</h2>
+                                            <h2 class="main-slider__title">Winners Polytec Agency Pvt Ltd</h2>
                                             <p class="main-slider__text">
                                                 "THE KEY TO LIFE IS ACCEPTING CHALLENGES", The motto drives us to explore the field of polymers and keeps us evolving.
                                             </p>
@@ -100,7 +100,7 @@
             </section>
             <!--Main Slider End-->
 
-            <!--About One Start-->
+            <!--About Three Start-->
             <section class="about-one mt-5 pt-5">
                 <div class="about-one__shape float-bob-x">
                     <img src="assets/images/shapes/about-one-shape.png" alt="" />
@@ -116,7 +116,21 @@
                                     <div class="about-one__line">
                                         <img src="assets/images/shapes/about-one-line.png" alt="" />
                                     </div>
-                                    <div class="about-one__big-text">Our Head</div>
+                                    <div class="about-one__satisfied">
+                                        <div class="about-one__satisfied-inner">
+                                            <div class="about-one__satisfied-shape">
+                                                <img src="assets/images/shapes/about-one-satisfied-shape-1.png" alt="" />
+                                            </div>
+                                            <div class="about-one__satisfied-content">
+                                                <div class="about-one__satisfied-count-box">
+                                                    <h3 class="odometer" data-count="14">00</h3>
+                                                    <span class="about-one__satisfied-percent">+</span>
+                                                </div>
+                                                <p class="about-one__satisfied-text">Years of Experience</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="about-one__big-text">About Us</div>
                                 </div>
                             </div>
                         </div>
@@ -124,20 +138,333 @@
                             <div class="about-one__right">
                                 <div class="section-title text-left">
                                     <div class="section-sub-title-box ms-0">
-                                        <p class="section-sub-title">Our Head</p>
+                                        <p class="section-sub-title">About Us</p>
                                     </div>
-                                    <h2 class="section-title__title">DHANALAKSHMI. P</h2>
-                                    <p>PROPRIETOR OF WINNERS AGENCIES</p>
+                                    <h2 class="section-title__title">Winners Polytec Agency Pvt Ltd</h2>
+                                    <p>"THE KEY TO LIFE IS ACCEPTING CHALLENGES", The motto drives us to explore the field of polymers and keeps us evolving.</p>
                                 </div>
                                 <p class="about-one__text">
-                                    At the helm of our company, we have been fortunate to be guided by an exceptional leader who has been in the field of polymers for past two decades whose unwavering dedication and visionary mindset have propelled us to new heights. She has been the driving force behind our company's remarkable growth and transformation that have solidified our position as a market leader in our industry. One of the most remarkable aspects is her ability to adapt to evolving market dynamics coupled with a forward-thinking mindset that enables to anticipate industry trends and make strategic decisions that keep us ahead of the competition. Through global expansion, and the introduction of innovative products and services, she have steered us through the odds transforming challenges into opportunities for advancement. The immense commitment to excellence, combined with ability to inspire and empower, has laid the foundation for our continued success.
+                                    Started in 2011, our company stepped into the field of polymers and established as one of the leading suppliers of high quality plastic raw materials. We specialize in the distribution of plastic resins and compounds, offering a wide range of products to meet the needs of our customers. Driven by a passion for excellence, we source and supply a wide range of top-grade polymers from trusted manufacturers and suppliers across the globe. Through global expansion, and the introduction of innovative products and services, we have steered us through the odds transforming challenges into opportunities for advancement. Customer satisfaction lies at the core of our business philosophy.
                                 </p>
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
-            <!--About One End-->
+            <!--About Three End-->
+
+            <!-- Service Start -->
+            <section class="services-one">
+                <div class="services-one-shape-1 float-bob-x">
+                    <img src="assets/images/shapes/services-one-shape-1.png" alt="">
+                </div>
+                <div class="services-one-shape-2">
+                    <img src="assets/images/shapes/services-one-shape-2.png" alt="">
+                </div>
+                <div class="container">
+                    <div class="services-one__top">
+                        <div class="row">
+                            <div class="col-xl-7 col-lg-6">
+                                <div class="services-one__top-left">
+                                    <div class="section-title text-left">
+                                        <div class="section-sub-title-box m-0">
+                                            <p class="section-sub-title">Our services</p>
+                                        </div>
+                                        <h2 class="section-title__title">Winners Polytec Agency Pvt Ltd</h2>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-5 col-lg-6">
+                                <div class="services-one__top-right">
+                                    <p class="services-one__top-right-text">We also provide logistic assistance, technical support and consultation to our customers, helping them to choose the right materials for their specific needs.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- Service End -->
+
+            <!--Blog Page Start-->
+            <section class="blog-carousel-page">
+                <div class="project-one__top">
+                    <div class="container">
+                        <div class="section-title text-center">
+                            <div class="section-sub-title-box m-0">
+                                <p class="section-sub-title">Our Products</p>
+                            </div>
+                            <h2 class="section-title__title">Winners Polytec Agency Pvt Ltd</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div
+                        class="blog-carousel thm-owl__carousel owl-theme owl-carousel carousel-dot-style"
+                        data-owl-options='{
+                            "items": 3,
+                            "margin": 30,
+                            "smartSpeed": 700,
+                            "loop":true,
+                            "autoplay": 6000,
+                            "nav":false,
+                            "dots":true,
+                            "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
+                            "responsive":{
+                                "0":{
+                                    "items": 1
+                                },
+                                "768":{
+                                    "items": 2
+                                },
+                                "992":{
+                                    "items": 3
+                                }
+                            }
+                        }'>
+                        <!--Blog One Single Start-->
+                        <div class="item">
+                            <div class="blog-one__single">
+                                <div class="blog-one__img">
+                                    <img src="assets/images/blog/1.png" alt="" />
+                                </div>
+                                <div class="blog-one__content">
+                                    <h3 class="blog-one__title"><a href="page_1.php">Polyethylene (PE)</a></h3>
+                                    <div class="blog-one__read-more">
+                                        <a href="page_1.php">Read More <i class="fa fa-arrow-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Blog One Single End-->
+                        <!--Blog One Single Start-->
+                        <div class="item">
+                            <div class="blog-one__single">
+                                <div class="blog-one__img">
+                                    <img src="assets/images/blog/10.png" alt="" />
+                                </div>
+                                <div class="blog-one__content">
+                                    <h3 class="blog-one__title"><a href="page_2.php">Polypropylene (PP)</a></h3>
+                                    <div class="blog-one__read-more">
+                                        <a href="page_2.php">Read More <i class="fa fa-arrow-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Blog One Single End-->
+                        <!--Blog One Single Start-->
+                        <div class="item">
+                            <div class="blog-one__single">
+                                <div class="blog-one__img">
+                                    <img src="assets/images/blog/1.jpg" alt="" />
+                                </div>
+                                <div class="blog-one__content">
+                                    <h3 class="blog-one__title"><a href="page_3.php#1">Acetyl Copolymer (POM)</a></h3>
+                                    <div class="blog-one__read-more">
+                                        <a href="page_3.php#1">Read More <i class="fa fa-arrow-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Blog One Single End-->
+                        <!--Blog One Single Start-->
+                        <div class="item">
+                            <div class="blog-one__single">
+                                <div class="blog-one__img">
+                                    <img src="assets/images/blog/2.jpg" alt="" />
+                                </div>
+                                <div class="blog-one__content">
+                                    <h3 class="blog-one__title"><a href="page_3.php#2">Polystyrene (PS)</a></h3>
+                                    <div class="blog-one__read-more">
+                                        <a href="page_3.php#2">Read More <i class="fa fa-arrow-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Blog One Single End-->
+                        <!--Blog One Single Start-->
+                        <div class="item">
+                            <div class="blog-one__single">
+                                <div class="blog-one__img">
+                                    <img src="assets/images/blog/3.jpg" alt="" />
+                                </div>
+                                <div class="blog-one__content">
+                                    <h3 class="blog-one__title"><a href="page_3.php#3">Nylon</a></h3>
+                                    <div class="blog-one__read-more">
+                                        <a href="page_3.php#3">Read More <i class="fa fa-arrow-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Blog One Single End-->
+                        <!--Blog One Single Start-->
+                        <div class="item">
+                            <div class="blog-one__single">
+                                <div class="blog-one__img">
+                                    <img src="assets/images/blog/4.jpg" alt="" />
+                                </div>
+                                <div class="blog-one__content">
+                                    <h3 class="blog-one__title"><a href="page_3.php#4">Acrylonitrile Butadiene Styrene (ABS)</a></h3>
+                                    <div class="blog-one__read-more">
+                                        <a href="page_3.php#4">Read More <i class="fa fa-arrow-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Blog One Single End-->
+                        <!--Blog One Single Start-->
+                        <div class="item">
+                            <div class="blog-one__single">
+                                <div class="blog-one__img">
+                                    <img src="assets/images/blog/5.jpg" alt="" />
+                                </div>
+                                <div class="blog-one__content">
+                                    <h3 class="blog-one__title"><a href="page_3.php#5">Polycarbonate (PC)</a></h3>
+                                    <div class="blog-one__read-more">
+                                        <a href="page_3.php#5">Read More <i class="fa fa-arrow-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Blog One Single End-->
+                        <!--Blog One Single Start-->
+                        <div class="item">
+                            <div class="blog-one__single">
+                                <div class="blog-one__img">
+                                    <img src="assets/images/blog/6.jpg" alt="" />
+                                </div>
+                                <div class="blog-one__content">
+                                    <h3 class="blog-one__title"><a href="page_3.php#6">Ethylene Vinyl Acetate Copolymer (EVA)</a></h3>
+                                    <div class="blog-one__read-more">
+                                        <a href="page_3.php#6">Read More <i class="fa fa-arrow-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Blog One Single End-->
+                        <!--Blog One Single Start-->
+                        <div class="item">
+                            <div class="blog-one__single">
+                                <div class="blog-one__img">
+                                    <img src="assets/images/blog/7.jpg" alt="" />
+                                </div>
+                                <div class="blog-one__content">
+                                    <h3 class="blog-one__title"><a href="page_3.php#7">Thermoplastic Elastomer (TPE)</a></h3>
+                                    <div class="blog-one__read-more">
+                                        <a href="page_3.php#7">Read More <i class="fa fa-arrow-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Blog One Single End-->
+                        <!--Blog One Single Start-->
+                        <div class="item">
+                            <div class="blog-one__single">
+                                <div class="blog-one__img">
+                                    <img src="assets/images/blog/8.jpg" alt="" />
+                                </div>
+                                <div class="blog-one__content">
+                                    <h3 class="blog-one__title"><a href="page_3.php#8">Thermoplastic Polyurethane (TPU)</a></h3>
+                                    <div class="blog-one__read-more">
+                                        <a href="page_3.php#8">Read More <i class="fa fa-arrow-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Blog One Single End-->
+                        <!--Blog One Single Start-->
+                        <div class="item">
+                            <div class="blog-one__single">
+                                <div class="blog-one__img">
+                                    <img src="assets/images/blog/9.jpg" alt="" />
+                                </div>
+                                <div class="blog-one__content">
+                                    <h3 class="blog-one__title"><a href="page_3.php#9">Polymethyl Methacrylate (PMMA)</a></h3>
+                                    <div class="blog-one__read-more">
+                                        <a href="page_3.php#9">Read More <i class="fa fa-arrow-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Blog One Single End-->
+                        <!--Blog One Single Start-->
+                        <div class="item">
+                            <div class="blog-one__single">
+                                <div class="blog-one__img">
+                                    <img src="assets/images/blog/10.jpg" alt="" />
+                                </div>
+                                <div class="blog-one__content">
+                                    <h3 class="blog-one__title"><a href="page_3.php#10">Polyphenylene Oxide (PPO)</a></h3>
+                                    <div class="blog-one__read-more">
+                                        <a href="page_3.php#10">Read More <i class="fa fa-arrow-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Blog One Single End-->
+                        <!--Blog One Single Start-->
+                        <div class="item">
+                            <div class="blog-one__single">
+                                <div class="blog-one__img">
+                                    <img src="assets/images/blog/11.jpg" alt="" />
+                                </div>
+                                <div class="blog-one__content">
+                                    <h3 class="blog-one__title"><a href="page_3.php#11">Polyphenylene Sulphide (PPS)</a></h3>
+                                    <div class="blog-one__read-more">
+                                        <a href="page_3.php#11">Read More <i class="fa fa-arrow-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Blog One Single End-->
+                        <!--Blog One Single Start-->
+                        <div class="item">
+                            <div class="blog-one__single">
+                                <div class="blog-one__img">
+                                    <img src="assets/images/blog/12.jpg" alt="" />
+                                </div>
+                                <div class="blog-one__content">
+                                    <h3 class="blog-one__title"><a href="page_3.php#12">PVC Compounds</a></h3>
+                                    <div class="blog-one__read-more">
+                                        <a href="page_3.php#12">Read More <i class="fa fa-arrow-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Blog One Single End-->
+                        <!--Blog One Single Start-->
+                        <div class="item">
+                            <div class="blog-one__single">
+                                <div class="blog-one__img">
+                                    <img src="assets/images/blog/13.jpg" alt="" />
+                                </div>
+                                <div class="blog-one__content">
+                                    <h3 class="blog-one__title"><a href="page_3.php#13">Reprocessed Polymers</a></h3>
+                                    <div class="blog-one__read-more">
+                                        <a href="page_3.php#13">Read More <i class="fa fa-arrow-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Blog One Single End-->
+                        <!--Blog One Single Start-->
+                        <div class="item">
+                            <div class="blog-one__single">
+                                <div class="blog-one__img">
+                                    <img src="assets/images/blog/14.jpg" alt="" />
+                                </div>
+                                <div class="blog-one__content">
+                                    <h3 class="blog-one__title"><a href="page_3.php#14">Masterbatches</a></h3>
+                                    <div class="blog-one__read-more">
+                                        <a href="page_3.php#14">Read More <i class="fa fa-arrow-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Blog One Single End-->
+                    </div>
+                </div>
+            </section>
+            <!--Blog Page End-->
 
             <!--Why Choose Two Start-->
             <section class="why-choose-two">
@@ -207,242 +534,173 @@
             </section>
             <!--Why Choose Two End-->
 
-            <!--Testimonial Two Start-->
-            <section class="testimonial-two">
-                <div class="testimonial-two-shape"
-                    style="background-image: url(assets/images/shapes/testimonial-two-shape.png);"></div>
+            <!--Awards Start-->
+            <section class="awards">
                 <div class="container">
-                    <div class="row">
-                        <div class="col-xl-4 col-lg-4">
-                            <div class="testimonial-two__left">
-                                <div class="section-title text-left">
-                                    <div class="section-sub-title-box ms-0">
-                                        <p class="section-sub-title">Our Suppliers</p>
-                                    </div>
-                                    <h2 class="section-title__title">COMMERCIAL PRODUCTS</h2>
-                                    <p>[PP, PPCP, HDPE, LDPE, LLDPE, TPE, PVC COMPOUNDS]</p>
+                    <div class="section-sub-title-box ms-0 w-100">
+                        <p class="section-sub-title">Our Suppliers</p>
+                    </div>
+                    <h2 class="section-title__title" style="margin-bottom: 10px;">COMMERCIAL PRODUCTS</h2>
+                    <p style="margin-bottom: 20px;">[PP, PPCP, HDPE, LDPE, LLDPE, TPE, PVC COMPOUNDS]</p>
+                    <!-- <h4 class="awards__title">COMMERCIAL PRODUCTS</h4> -->
+                    <div class="awards__carousel owl-carousel owl-theme thm-owl__carousel" data-owl-options='{
+                            "loop": true,
+                            "autoplay": true,
+                            "margin": 30,
+                            "nav": false,
+                            "dots": false,
+                            "smartSpeed": 500,
+                            "autoplayTimeout": 10000,
+                            "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
+                            "responsive": {
+                                "0": {
+                                    "items": 2
+                                },
+                                "768": {
+                                    "items": 4
+                                },
+                                "992": {
+                                    "items": 4
+                                },
+                                "1200": {
+                                    "items": 5
+                                }
+                            }
+                        }'>
+                        <!--Awards Single Start-->
+                        <div class="item">
+                            <div class="awards__single">
+                                <div class="awards__img">
+                                    <img src="assets/images/resources/1.png" alt="">
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-8 col-lg-8">
-                            <div class="testimonial-two__right">
-                                <div class="testimonial-two__carousel owl-carousel owl-theme thm-owl__carousel"
-                                    data-owl-options='{
-                                    "loop": true,
-                                    "autoplay": true,
-                                    "margin": 50,
-                                    "nav": false,
-                                    "dots": true,
-                                    "smartSpeed": 500,
-                                    "autoplayTimeout": 10000,
-                                    "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
-                                    "responsive": {
-                                        "0": {
-                                            "items": 1
-                                        },
-                                        "768": {
-                                            "items": 1
-                                        },
-                                        "992": {
-                                            "items": 1
-                                        },
-                                        "1200": {
-                                            "items": 1.4884785
-                                        }
-                                    }
-                                }'>
-                                    <!--Testimonial One Single Start-->
-                                    <div class="item">
-                                        <div class="testimonial-one__single">
-                                            <div class="testimonial-one__client-info">
-                                                <img src="assets/images/testimonial/1.png" class="w-auto" alt="Logos">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--Testimonial One Single End-->
-                                    <!--Testimonial One Single Start-->
-                                    <div class="item">
-                                        <div class="testimonial-one__single">
-                                            <div class="testimonial-one__client-info">
-                                                <img src="assets/images/testimonial/2.png" class="w-auto" alt="Logos">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--Testimonial One Single End-->
-                                    <!--Testimonial One Single Start-->
-                                    <div class="item">
-                                        <div class="testimonial-one__single">
-                                            <div class="testimonial-one__client-info">
-                                                <img src="assets/images/testimonial/3.png" class="w-auto" alt="Logos">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--Testimonial One Single End-->
-                                    <!--Testimonial One Single Start-->
-                                    <div class="item">
-                                        <div class="testimonial-one__single">
-                                            <div class="testimonial-one__client-info">
-                                                <img src="assets/images/testimonial/4.png" class="w-auto" alt="Logos">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--Testimonial One Single End-->
+                        <!--Awards Single End-->
+                        <!--Awards Single Start-->
+                        <div class="item">
+                            <div class="awards__single">
+                                <div class="awards__img">
+                                    <img src="assets/images/resources/2.png" alt="">
                                 </div>
                             </div>
                         </div>
+                        <!--Awards Single End-->
+                        <!--Awards Single Start-->
+                        <div class="item">
+                            <div class="awards__single">
+                                <div class="awards__img">
+                                    <img src="assets/images/resources/3.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <!--Awards Single End-->
+                        <!--Awards Single Start-->
+                        <div class="item">
+                            <div class="awards__single">
+                                <div class="awards__img">
+                                    <img src="assets/images/resources/4.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <!--Awards Single End-->
                     </div>
                 </div>
             </section>
-            <!--Testimonial Two End-->
-            <!--Testimonial Two Start-->
-            <section class="testimonial-two p-0">
-                <div class="testimonial-two-shape"
-                    style="background-image: url(assets/images/shapes/testimonial-two-shape.png);"></div>
+            <section class="awards p-0">
                 <div class="container">
-                    <div class="row">
-                        <div class="col-xl-4 col-lg-4">
-                            <div class="testimonial-two__left">
-                                <div class="section-title text-left">
-                                    <h2 class="section-title__title">ENGINEERING PRODUCTS</h2>
-                                    <p>[POLYACTEL, PPS, PPO - GLOBAL]</p>
+                    <h2 class="section-title__title" style="margin-bottom: 10px;">ENGINEERING PRODUCTS</h2>
+                    <p style="margin-bottom: 20px;">[POLYACTEL, PPS, PPO - GLOBAL]</p>
+                    <!-- <h4 class="awards__title">COMMERCIAL PRODUCTS</h4> -->
+                    <div class="awards__carousel owl-carousel owl-theme thm-owl__carousel">
+                        <!--Awards Single Start-->
+                        <div class="item">
+                            <div class="awards__single">
+                                <div class="awards__img">
+                                    <img src="assets/images/resources/5.png" alt="">
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-8 col-lg-8">
-                            <div class="testimonial-two__right">
-                                <div class="testimonial-two__carousel owl-carousel owl-theme thm-owl__carousel"
-                                    data-owl-options='{
-                                    "loop": true,
-                                    "autoplay": true,
-                                    "margin": 50,
-                                    "nav": false,
-                                    "dots": true,
-                                    "smartSpeed": 500,
-                                    "autoplayTimeout": 10000,
-                                    "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
-                                    "responsive": {
-                                        "0": {
-                                            "items": 1
-                                        },
-                                        "768": {
-                                            "items": 1
-                                        },
-                                        "992": {
-                                            "items": 1
-                                        },
-                                        "1200": {
-                                            "items": 1
-                                        }
-                                    }
-                                }'>
-                                    <!--Testimonial One Single Start-->
-                                    <div class="item">
-                                        <div class="testimonial-one__single d-flex justify-content-center align-items-center">
-                                            <div class="testimonial-one__client-info">
-                                                <img src="assets/images/testimonial/5.png" class="w-auto" alt="Logos">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--Testimonial One Single End-->
-                                </div>
-                            </div>
-                        </div>
+                        <!--Awards Single End-->
                     </div>
                 </div>
             </section>
-            <!--Testimonial Two End-->
-            <!--Testimonial Two Start-->
-            <section class="testimonial-two">
-                <div class="testimonial-two-shape"
-                    style="background-image: url(assets/images/shapes/testimonial-two-shape.png);"></div>
+            <section class="awards">
                 <div class="container">
-                    <div class="row">
-                        <div class="col-xl-4 col-lg-4">
-                            <div class="testimonial-two__left">
-                                <div class="section-title text-left">
-                                    <h2 class="section-title__title">ENGINEERING PRODUCTS</h2>
-                                    <p>[NYLON, POLYSTYRENE, ABS, PC]</p>
+                    <h2 class="section-title__title" style="margin-bottom: 10px;">ENGINEERING PRODUCTS</h2>
+                    <p style="margin-bottom: 20px;">[NYLON, POLYSTYRENE, ABS, PC]</p>
+                    <!-- <h4 class="awards__title">COMMERCIAL PRODUCTS</h4> -->
+                    <div class="awards__carousel owl-carousel owl-theme thm-owl__carousel" data-owl-options='{
+                            "loop": true,
+                            "autoplay": true,
+                            "margin": 30,
+                            "nav": false,
+                            "dots": false,
+                            "smartSpeed": 500,
+                            "autoplayTimeout": 10000,
+                            "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
+                            "responsive": {
+                                "0": {
+                                    "items": 2
+                                },
+                                "768": {
+                                    "items": 4
+                                },
+                                "992": {
+                                    "items": 4
+                                },
+                                "1200": {
+                                    "items": 5
+                                }
+                            }
+                        }'>
+                        <!--Awards Single Start-->
+                        <div class="item">
+                            <div class="awards__single">
+                                <div class="awards__img">
+                                    <img src="assets/images/resources/6.png" alt="">
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-8 col-lg-8">
-                            <div class="testimonial-two__right">
-                                <div class="testimonial-two__carousel owl-carousel owl-theme thm-owl__carousel"
-                                    data-owl-options='{
-                                    "loop": true,
-                                    "autoplay": true,
-                                    "margin": 50,
-                                    "nav": false,
-                                    "dots": true,
-                                    "smartSpeed": 500,
-                                    "autoplayTimeout": 10000,
-                                    "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
-                                    "responsive": {
-                                        "0": {
-                                            "items": 1
-                                        },
-                                        "768": {
-                                            "items": 1
-                                        },
-                                        "992": {
-                                            "items": 1
-                                        },
-                                        "1200": {
-                                            "items": 1.4884785
-                                        }
-                                    }
-                                }'>
-                                    <!--Testimonial One Single Start-->
-                                    <div class="item">
-                                        <div class="testimonial-one__single">
-                                            <div class="testimonial-one__client-info">
-                                                <img src="assets/images/testimonial/6.png" class="w-auto" alt="Logos">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--Testimonial One Single End-->
-                                    <!--Testimonial One Single Start-->
-                                    <div class="item">
-                                        <div class="testimonial-one__single">
-                                            <div class="testimonial-one__client-info">
-                                                <img src="assets/images/testimonial/7.png" class="w-auto" alt="Logos">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--Testimonial One Single End-->
-                                    <!--Testimonial One Single Start-->
-                                    <div class="item">
-                                        <div class="testimonial-one__single">
-                                            <div class="testimonial-one__client-info">
-                                                <img src="assets/images/testimonial/8.png" class="w-auto" alt="Logos">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--Testimonial One Single End-->
-                                    <!--Testimonial One Single Start-->
-                                    <div class="item">
-                                        <div class="testimonial-one__single">
-                                            <div class="testimonial-one__client-info">
-                                                <img src="assets/images/testimonial/9.png" class="w-auto" alt="Logos">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--Testimonial One Single End-->
-                                    <!--Testimonial One Single Start-->
-                                    <div class="item">
-                                        <div class="testimonial-one__single">
-                                            <div class="testimonial-one__client-info">
-                                                <img src="assets/images/testimonial/10.png" class="w-auto" alt="Logos">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--Testimonial One Single End-->
+                        <!--Awards Single End-->
+                        <!--Awards Single Start-->
+                        <div class="item">
+                            <div class="awards__single">
+                                <div class="awards__img">
+                                    <img src="assets/images/resources/7.png" alt="">
                                 </div>
                             </div>
                         </div>
+                        <!--Awards Single End-->
+                        <!--Awards Single Start-->
+                        <div class="item">
+                            <div class="awards__single">
+                                <div class="awards__img">
+                                    <img src="assets/images/resources/8.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <!--Awards Single End-->
+                        <!--Awards Single Start-->
+                        <div class="item">
+                            <div class="awards__single">
+                                <div class="awards__img">
+                                    <img src="assets/images/resources/9.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <!--Awards Single End-->
+                        <!--Awards Single Start-->
+                        <div class="item">
+                            <div class="awards__single">
+                                <div class="awards__img">
+                                    <img src="assets/images/resources/10.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <!--Awards Single End-->
                     </div>
                 </div>
             </section>
-            <!--Testimonial Two End-->
+            <!--Awards End-->
 
 <?php include "temp/footer.php" ?>

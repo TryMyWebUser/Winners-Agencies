@@ -56,7 +56,7 @@
                                     <div class="section-sub-title-box ms-0">
                                         <p class="section-sub-title">About Us</p>
                                     </div>
-                                    <h2 class="section-title__title">Winners Agencies</h2>
+                                    <h2 class="section-title__title">Winners Polytec Agency Pvt Ltd</h2>
                                     <p>"THE KEY TO LIFE IS ACCEPTING CHALLENGES", The motto drives us to explore the field of polymers and keeps us evolving.</p>
                                 </div>
                                 <p class="about-one__text">
@@ -68,6 +68,45 @@
                 </div>
             </section>
             <!--About Three End-->
+
+            <!--About One Start-->
+            <section class="about-one mt-5 pt-5">
+                <div class="about-one__shape float-bob-x">
+                    <img src="assets/images/shapes/about-one-shape.png" alt="" />
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-6">
+                            <div class="about-one__left">
+                                <div class="about-one__img-box wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
+                                    <div class="about-one__img">
+                                        <img src="assets/images/resources/about-one-img-1.jpg" alt="" />
+                                    </div>
+                                    <div class="about-one__line">
+                                        <img src="assets/images/shapes/about-one-line.png" alt="" />
+                                    </div>
+                                    <div class="about-one__big-text">Our Head</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6">
+                            <div class="about-one__right">
+                                <div class="section-title text-left">
+                                    <div class="section-sub-title-box ms-0">
+                                        <p class="section-sub-title">Our Head</p>
+                                    </div>
+                                    <h2 class="section-title__title">DHANALAKSHMI. P</h2>
+                                    <p>PROPRIETOR OF WINNERS AGENCIES</p>
+                                </div>
+                                <p class="about-one__text">
+                                    At the helm of our company, we have been fortunate to be guided by an exceptional leader who has been in the field of polymers for past two decades whose unwavering dedication and visionary mindset have propelled us to new heights. She has been the driving force behind our company's remarkable growth and transformation that have solidified our position as a market leader in our industry. One of the most remarkable aspects is her ability to adapt to evolving market dynamics coupled with a forward-thinking mindset that enables to anticipate industry trends and make strategic decisions that keep us ahead of the competition. Through global expansion, and the introduction of innovative products and services, she have steered us through the odds transforming challenges into opportunities for advancement. The immense commitment to excellence, combined with ability to inspire and empower, has laid the foundation for our continued success.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--About One End-->
 
             <!--Process Start-->
             <section class="process">
@@ -158,7 +197,7 @@
                             <div class="why-choose-two__middle">
                                 <div class="why-choose-two__img-box">
                                     <div class="why-choose-two__img-one">
-                                        <img src="assets/images/resources/why-choose-two-img-1.jpg" alt="">
+                                        <img src="assets/images/resources/why-choose-two-img-2.jpg" alt="">
                                         <!-- <div class="why-choose-two__img-two">
                                             <img src="assets/images/resources/why-choose-two-img-2.png" alt="">
                                         </div> -->

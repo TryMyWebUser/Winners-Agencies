@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Winners Agencies</title>
+        <title>Winners Polytec Agency Pvt Ltd</title>
         <!-- favicons Icons -->
         <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
         <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/apple-touch-icon.png" />
@@ -141,15 +141,28 @@
                                         <li>
                                             <a href="about.php">About</a>
                                         </li>
-                                        <!-- <li class="dropdown">
+                                        <li class="dropdown">
                                             <a href="#">Products</a>
                                             <ul class="border-top-2px">
-                                                <li><a href="demo.php">Demo</a></li>
+                                                <li><a href="page_1.php">Polyethylene (PE)</a></li>
+                                                <li><a href="page_2.php">Polypropylene (PP)</a></li>
+                                                <li><a href="page_3.php#1">Acetyl Copolymer (POM)</a></li>
+                                                <li><a href="page_3.php#2">Polystyrene (PS)</a></li>
+                                                <li><a href="page_3.php#3">Nylon</a></li>
+                                                <li><a href="page_3.php#4">Acrylonitrile Butadiene Styrene (ABS)</a></li>
+                                                <li><a href="page_3.php#5">Polycarbonate (PC)</a></li>
+                                                <li><a href="page_3.php#6">Ethylene Vinyl Acetate  Copolymer (EVA)</a></li>
+                                                <li><a href="page_3.php#7">Thermoplastic Elastimer (TPE)</a></li>
+                                                <li><a href="page_3.php#8">Thermoplastic polyurethane (TPU)</a></li>
+                                                <li><a href="page_3.php#9">Polymethyl methacrylate (PMMA)</a></li>
+                                                <li><a href="page_3.php#10">Polyphenylene Oxide (PPO)</a></li>
+                                                <li><a href="page_3.php#11">Polyphenylene Sulphide (PPS)</a></li>
+                                                <li><a href="page_3.php#12">PVC Compounds</a></li>
+                                                <li><a href="page_3.php#13">Reprocessed Polymers</a></li>
+                                                <li><a href="page_3.php#14">Masterbatches</a></li>
                                             </ul>
                                         </li>
-                                        <li>
-                                            <a href="services.php">Services</a>
-                                        </li> -->
+                                        <li><a href="industries.php">Industries Served</a></li>
                                         <li>
                                             <a href="contact.php">Contact</a>
                                         </li>
